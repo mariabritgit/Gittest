@@ -1,4 +1,4 @@
-Batatas e acompanhantes
+Batatas e acompanhantes e saladas
 
 Batatas fritas
 Batatas doces
@@ -7,3 +7,4 @@ Puré
 Batatas cozidas
 Batatas doces fritas
 Bifes
+Alfaces
